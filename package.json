@@ -1,7 +1,7 @@
 {
-  "name": "responsive-areachart",
+  "name": "react-area-chart",
   "version": "1.0.0",
-  "description": "",
+  "description": "Here's a sample I created with CodeSandbox on making a Responsive AreaChart component using svg & cubic bezier.\n\nBased on solution proposed in this Medium Article:\nhttps://medium.com/@francoisromain/smooth-a-svg-path-with-cubic-bezier-curves-e37b49d46c74",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
